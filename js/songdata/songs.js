@@ -128,3 +128,5 @@ AddSong("Vicetone","Heartbeat<br>(feat. Collin McLoughlin)","Progressive House",
 
 AddSong("Varien & 7 Minutes Dead","Mirai Sekai (Continuous Mix)","EDM","VarienAnd7MinutesDead_MiraiSekaiContinuousMix.mp3","img/artists/varien.png","miraisekaiep")
 AddSong("Varien","Valkyrie<br>(feat. Laura Brehm)","Drumstep","Varien_Valkyrie.mp3","img/artists/varien.png","valkyriesingle")
+
+AddSong("Spag Heddy","Bang Bazzaar","Dubstep","SoltanSpagHeddy_BangBazzar.mp3","img/artists/SpagHeddy.jpg","HeddySingle")
